@@ -79,3 +79,7 @@ pip install -r requirements.txt
 
 python main.py
 
+## デモ
+![demo](demo.gif)
+
+素材に対して、MediaPipeによる瞳孔・瞬き検出をリアルタイムで可視化しています。
